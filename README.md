@@ -1,4 +1,0 @@
-# test
-something
-NEVER
-FFFF
